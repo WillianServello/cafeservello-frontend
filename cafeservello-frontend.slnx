@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/1 - cafeservello-client/">
+    <Project Path="cafeservello-client/cafeservello-client.csproj" />
+  </Folder>
+  <Folder Name="/2 - cafeservello-UI/">
+    <Project Path="cafeservello-UI/cafeservello-UI.csproj" />
+  </Folder>
+</Solution>

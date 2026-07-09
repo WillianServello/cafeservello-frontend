@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cafeservello-UI.props" />
+</Project>

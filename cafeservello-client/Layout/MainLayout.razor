@@ -1,0 +1,23 @@
+﻿@using cafeservello_UI.Components.Common.Transition
+@using cafeservello_client.Layout.Components.Navbar
+@using cafeservello_client.Layout.Components.Sidebar
+@inherits LayoutComponentBase
+
+
+
+<div class="@ThemeService.ThemeColor">
+    <div class="main-column @SidebarService.CssClass">
+
+        <Sidebar/>
+
+        <div class="main-row">
+            <Navbar/>
+
+            <main>
+                <Transition>
+                    @Body
+                </Transition>
+            </main>
+        </div>
+    </div>
+</div>

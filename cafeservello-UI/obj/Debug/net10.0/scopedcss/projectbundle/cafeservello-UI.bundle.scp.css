@@ -1,0 +1,60 @@
+/* _content/cafeservello-UI/Components/Common/Button/CommonButton.razor.rz.scp.css */
+
+
+.common-button[b-mk9imwedut] {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    overflow: hidden;
+    border: var(--border);
+    padding: 12px 8px 12px 8px;
+    border-radius: 5px;
+    gap: 10px;
+    transition: 0.5s all;
+}
+
+    .common-button:hover[b-mk9imwedut] {
+        background: #10151d;
+        transform: translateY(-1px);
+    }
+
+.common-button-icon[b-mk9imwedut] {
+    width: 24px;
+    min-width: 24px;
+    text-align: center;
+    transition: transform .3s ease;
+}
+
+.letter-medium[b-mk9imwedut] {
+   
+    opacity: 1;
+    max-width: 200px;
+    transition: opacity .3s ease, max-width .3s ease, margin .3s ease;
+}
+
+.main-column.sidebar-close .common-button[b-mk9imwedut] {
+    gap: 0;
+    padding-left: calc(50% - 12px);
+}
+
+.main-column.sidebar-close .letter-medium[b-mk9imwedut] {
+    opacity: 0;
+    max-width: 0;
+    margin-left: -10px;
+}
+/* _content/cafeservello-UI/Components/Common/Transition/Transition.razor.rz.scp.css */
+.page[b-23dza51jd7] {
+    animation: page-enter-b-23dza51jd7 220ms cubic-bezier(.2, .8, .2, 1);
+}
+
+@keyframes page-enter-b-23dza51jd7 {
+    from {
+        opacity: 0;
+        transform: translateY(6px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

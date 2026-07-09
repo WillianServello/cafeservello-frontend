@@ -1,0 +1,44 @@
+is_global = true
+build_property.TargetFramework = net10.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EntryPointFilePath = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = cafeservello_UI
+build_property.RootNamespace = cafeservello_UI
+build_property.ProjectDir = C:\Users\WillianRafael\source\repos\cafeservello-frontend\cafeservello-UI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 10.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\WillianRafael\source\repos\cafeservello-frontend\cafeservello-UI
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 10.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/WillianRafael/source/repos/cafeservello-frontend/cafeservello-UI/Components/Common/Theme/Theme.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb21tb25cVGhlbWVcVGhlbWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WillianRafael/source/repos/cafeservello-frontend/cafeservello-UI/Components/Image/IconWhite.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbWFnZVxJY29uV2hpdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WillianRafael/source/repos/cafeservello-frontend/cafeservello-UI/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WillianRafael/source/repos/cafeservello-frontend/cafeservello-UI/Components/Common/Button/CommonButton.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb21tb25cQnV0dG9uXENvbW1vbkJ1dHRvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-mk9imwedut
+
+[C:/Users/WillianRafael/source/repos/cafeservello-frontend/cafeservello-UI/Components/Common/Transition/Transition.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb21tb25cVHJhbnNpdGlvblxUcmFuc2l0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-23dza51jd7

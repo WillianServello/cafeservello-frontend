@@ -1,0 +1,2 @@
+C:\Users\WillianRafael\source\repos\cafeservello-frontend\cafeservello-UI\wwwroot\background.png
+C:\Users\WillianRafael\source\repos\cafeservello-frontend\cafeservello-UI\wwwroot\exampleJsInterop.js

@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\WillianRafael\\source\\repos\\cafeservello-frontend\\cafeservello-UI\\obj\\Debug\\net10.0\\scopedcss\\projectbundle\\cafeservello-UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\cafeservello-UI.voz7s3nbr1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\WillianRafael\\source\\repos\\cafeservello-frontend\\cafeservello-UI\\wwwroot\\image\\logo\\logo-white.png",
+      "PackagePath": "staticwebassets\\image\\logo\\logo-white.png"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0\\staticwebassets\\msbuild.build.cafeservello-UI.props",
+      "PackagePath": "build\\cafeservello-UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0\\staticwebassets\\msbuild.buildMultiTargeting.cafeservello-UI.props",
+      "PackagePath": "buildMultiTargeting\\cafeservello-UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0\\staticwebassets\\msbuild.buildTransitive.cafeservello-UI.props",
+      "PackagePath": "buildTransitive\\cafeservello-UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0\\staticwebassets\\msbuild.cafeservello-UI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0\\staticwebassets\\msbuild.cafeservello-UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

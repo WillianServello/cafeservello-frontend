@@ -1,0 +1,15 @@
+.page {
+    animation: page-enter 220ms cubic-bezier(.2, .8, .2, 1);
+}
+
+@keyframes page-enter {
+    from {
+        opacity: 0;
+        transform: translateY(6px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

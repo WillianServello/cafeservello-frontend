@@ -1,0 +1,35 @@
+main {
+    flex: 1;
+    background: var(--bg);
+    border-radius: 10px;
+    transition: 0.3s all;
+}
+
+.main-column {
+    display: grid;
+    width: 100%;
+    height: 100vh;
+    transition: 0.3s all;
+}
+
+    .main-column.sidebar-open {
+        grid-template-columns: 250px 1fr;
+    }
+
+    .main-column.sidebar-close {
+        grid-template-columns: 100px 1fr;
+    }
+
+.main-row {
+    display: grid;
+    grid-template-rows: 80px 1fr;
+    padding: 0 !important;
+    gap: 10px;
+    transition: 0.3s all;
+}
+
+
+div > .main-column {
+    gap: 10px;
+    padding: 15px;
+}
