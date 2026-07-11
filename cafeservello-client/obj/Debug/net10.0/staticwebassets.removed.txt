@@ -1,1 +1,2 @@
-C:\Users\WillianRafael\source\repos\cafeservello-frontend\cafeservello-client\wwwroot\sample-data\weather.json
+C:\Users\WillianRafael\Desktop\cafeservello-frontend\cafeservello-client\wwwroot\css\fonts\fonts.css
+C:\Users\WillianRafael\Desktop\cafeservello-frontend\cafeservello-client\wwwroot\css\shared\letter-size.css

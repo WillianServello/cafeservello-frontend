@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WillianRafael\\source\\repos\\cafeservello-frontend\\cafeservello-client\\cafeservello-client.csproj": {}
+    "C:\\Users\\WillianRafael\\Desktop\\cafeservello-frontend\\cafeservello-client\\cafeservello-client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WillianRafael\\source\\repos\\cafeservello-frontend\\cafeservello-client\\cafeservello-client.csproj": {
+    "C:\\Users\\WillianRafael\\Desktop\\cafeservello-frontend\\cafeservello-client\\cafeservello-client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WillianRafael\\source\\repos\\cafeservello-frontend\\cafeservello-client\\cafeservello-client.csproj",
+        "projectUniqueName": "C:\\Users\\WillianRafael\\Desktop\\cafeservello-frontend\\cafeservello-client\\cafeservello-client.csproj",
         "projectName": "cafeservello-client",
-        "projectPath": "C:\\Users\\WillianRafael\\source\\repos\\cafeservello-frontend\\cafeservello-client\\cafeservello-client.csproj",
+        "projectPath": "C:\\Users\\WillianRafael\\Desktop\\cafeservello-frontend\\cafeservello-client\\cafeservello-client.csproj",
         "packagesPath": "C:\\Users\\WillianRafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WillianRafael\\source\\repos\\cafeservello-frontend\\cafeservello-client\\obj\\",
+        "outputPath": "C:\\Users\\WillianRafael\\Desktop\\cafeservello-frontend\\cafeservello-client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -34,8 +34,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\WillianRafael\\source\\repos\\cafeservello-frontend\\cafeservello-UI\\cafeservello-UI.csproj": {
-                "projectPath": "C:\\Users\\WillianRafael\\source\\repos\\cafeservello-frontend\\cafeservello-UI\\cafeservello-UI.csproj"
+              "C:\\Users\\WillianRafael\\Desktop\\cafeservello-frontend\\cafeservello-UI\\cafeservello-UI.csproj": {
+                "projectPath": "C:\\Users\\WillianRafael\\Desktop\\cafeservello-frontend\\cafeservello-UI\\cafeservello-UI.csproj"
               }
             }
           }
@@ -390,14 +390,14 @@
         }
       }
     },
-    "C:\\Users\\WillianRafael\\source\\repos\\cafeservello-frontend\\cafeservello-UI\\cafeservello-UI.csproj": {
+    "C:\\Users\\WillianRafael\\Desktop\\cafeservello-frontend\\cafeservello-UI\\cafeservello-UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WillianRafael\\source\\repos\\cafeservello-frontend\\cafeservello-UI\\cafeservello-UI.csproj",
+        "projectUniqueName": "C:\\Users\\WillianRafael\\Desktop\\cafeservello-frontend\\cafeservello-UI\\cafeservello-UI.csproj",
         "projectName": "cafeservello-UI",
-        "projectPath": "C:\\Users\\WillianRafael\\source\\repos\\cafeservello-frontend\\cafeservello-UI\\cafeservello-UI.csproj",
+        "projectPath": "C:\\Users\\WillianRafael\\Desktop\\cafeservello-frontend\\cafeservello-UI\\cafeservello-UI.csproj",
         "packagesPath": "C:\\Users\\WillianRafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WillianRafael\\source\\repos\\cafeservello-frontend\\cafeservello-UI\\obj\\",
+        "outputPath": "C:\\Users\\WillianRafael\\Desktop\\cafeservello-frontend\\cafeservello-UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

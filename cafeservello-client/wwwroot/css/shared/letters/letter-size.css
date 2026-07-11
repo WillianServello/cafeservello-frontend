@@ -1,0 +1,29 @@
+﻿.type-letter {
+    --letter-spacing: 2px;
+}
+
+.letter {
+    color: var(--text);
+    letter-spacing: var(--letter-spacing);
+    transition: 0.3s;
+}
+
+.letter-pointer{
+    cursor: pointer
+}
+    .letter:hover {
+        transform: translateY(-1px);
+    }
+
+    
+.letter-small{
+    font-size: 10pt;
+}
+
+.letter-medium {
+    font-size: 12pt;
+}
+
+.letter-large {
+    font-size: 14pt;
+}

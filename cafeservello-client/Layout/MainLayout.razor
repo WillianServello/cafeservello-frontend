@@ -1,19 +1,32 @@
-﻿@using cafeservello_UI.Components.Common.Transition
-@using cafeservello_client.Layout.Components.Navbar
-@using cafeservello_client.Layout.Components.Sidebar
+﻿@using cafeservello_UI.Components.Common.Button
+@using cafeservello_UI.Components.Common.Transition
+@using cafeservello_UI.Components.Layout.Navbar
+@using cafeservello_UI.Components.Layout.Sidebar
 @inherits LayoutComponentBase
 
 
 
-<div class="@ThemeService.ThemeColor">
+<div class="@ThemeService.ThemeColor backgroundcommon">
     <div class="main-column @SidebarService.CssClass">
 
         <Sidebar/>
 
         <div class="main-row">
             <Navbar/>
-
             <main>
+                <div class="body-navbar">
+
+                    <div>
+                        <i class="bi bi-three-dots"></i>
+                    </div>
+
+                    <div class="actions">
+                        <CommonButton Icon="bi bi-sliders" Text="Preferências" />
+                        <CommonButton Text="Preferências" />
+                    </div>
+
+                </div>
+
                 <Transition>
                     @Body
                 </Transition>
@@ -21,3 +34,31 @@
         </div>
     </div>
 </div>
+
+<style>
+    .body-navbar{
+        display: flex;
+        justify-content: end;
+        width: 100%;
+        position: relative;
+    }
+    .body-navbar i{
+        font-size: 20px;
+        cursor: pointer;
+    }
+
+    .actions{
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        padding: 10px;
+        border-radius: 10px 0px 10px 10px;
+        background: var(--bg);
+        box-shadow: var(--shadow);
+        top: clamp(10px, 10vw, 30px );
+        transition: 0.3s all;
+        gap: 5px;
+    }
+
+    
+</style>

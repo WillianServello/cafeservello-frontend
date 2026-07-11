@@ -1,4 +1,5 @@
-using cafeservello_UI.Services.UI;
+using cafeservello_UI.Services.Common.Theme;
+using cafeservello_UI.Services.Layout;
 using Microsoft.AspNetCore.Components;
 
 namespace cafeservello_client.Layout;

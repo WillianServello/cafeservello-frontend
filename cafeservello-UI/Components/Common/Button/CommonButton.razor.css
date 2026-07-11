@@ -31,13 +31,13 @@
     transition: opacity .3s ease, max-width .3s ease, margin .3s ease;
 }
 
-.main-column.sidebar-close .common-button {
-    gap: 0;
-    padding-left: calc(50% - 12px);
+.main-column.sidebar-close .sidebar .common-button {
+    gap: 0 !important;
+    padding-left: calc(50% - 12px) !important;
 }
 
-.main-column.sidebar-close .letter-medium {
-    opacity: 0;
-    max-width: 0;
-    margin-left: -10px;
-}
+.main-column.sidebar-close .sidebar .letter-medium {
+    opacity: 0 !important;
+    max-width: 0 !important;
+    margin-left: -10px !important;
+} 

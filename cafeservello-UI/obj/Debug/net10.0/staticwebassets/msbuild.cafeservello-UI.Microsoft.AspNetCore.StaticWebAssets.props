@@ -1,24 +1,24 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cafeservello-UI.voz7s3nbr1.bundle.scp.css'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cafeservello-UI.syk6n8qyxd.bundle.scp.css'))">
       <SourceType>Package</SourceType>
       <SourceId>cafeservello-UI</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/cafeservello-UI</BasePath>
-      <RelativePath>cafeservello-UI.voz7s3nbr1.bundle.scp.css</RelativePath>
+      <RelativePath>cafeservello-UI.syk6n8qyxd.bundle.scp.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>Reference</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ProjectBundle</AssetTraitValue>
-      <Fingerprint>voz7s3nbr1</Fingerprint>
-      <Integrity>b2jpCoYb9/E0+9wS729QSeqXzrZetaEItxbHkEFa0ns=</Integrity>
+      <Fingerprint>syk6n8qyxd</Fingerprint>
+      <Integrity>XJmXM5aqBmGis5bvUYIs33qf95P2FklNs8CpcFNdpG0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <FileLength>1383</FileLength>
-      <LastWriteTime>Thu, 09 Jul 2026 23:09:23 GMT</LastWriteTime>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cafeservello-UI.voz7s3nbr1.bundle.scp.css'))</OriginalItemSpec>
+      <FileLength>2392</FileLength>
+      <LastWriteTime>Sat, 11 Jul 2026 18:25:18 GMT</LastWriteTime>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cafeservello-UI.syk6n8qyxd.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\logo\logo-white.png'))">
       <SourceType>Package</SourceType>
@@ -37,7 +37,7 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <FileLength>118430</FileLength>
-      <LastWriteTime>Wed, 08 Jul 2026 01:45:03 GMT</LastWriteTime>
+      <LastWriteTime>Thu, 09 Jul 2026 23:21:21 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\logo\logo-white.png'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>

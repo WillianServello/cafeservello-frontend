@@ -1,0 +1,13 @@
+﻿@using cafeservello_UI.Components.Common.Button
+@using cafeservello_UI.Services.Layout
+@inject SidebarService SidebarService
+
+<div class="sidebar">
+
+    <button @onclick="SidebarService.ToggleOpen" class="button-drawer">
+        <i class="@(SidebarService.IsOpen
+                   ? "bi bi-layout-sidebar-inset-reverse"
+                   : "bi bi-layout-sidebar-inset")"></i>
+    </button>
+    <CommonButton Text="Home" Icon="bi bi-house" Href="/home" />
+</div>
