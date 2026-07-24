@@ -1,28 +1,28 @@
 ﻿<Project>
   <ItemGroup>
     <StaticWebAssetEndpoint Include="_content/cafeservello-UI/cafeservello-UI.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cafeservello-UI.voz7s3nbr1.bundle.scp.css'))</AssetFile>
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cafeservello-UI.syk6n8qyxd.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-b2jpCoYb9/E0\u002B9wS729QSeqXzrZetaEItxbHkEFa0ns="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1383"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022b2jpCoYb9/E0\u002B9wS729QSeqXzrZetaEItxbHkEFa0ns=\u0022"},{"Name":"Last-Modified","Value":"Thu, 09 Jul 2026 23:09:23 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XJmXM5aqBmGis5bvUYIs33qf95P2FklNs8CpcFNdpG0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2392"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022XJmXM5aqBmGis5bvUYIs33qf95P2FklNs8CpcFNdpG0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 11 Jul 2026 18:25:18 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/cafeservello-UI/cafeservello-UI.voz7s3nbr1.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cafeservello-UI.voz7s3nbr1.bundle.scp.css'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/cafeservello-UI/cafeservello-UI.syk6n8qyxd.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cafeservello-UI.syk6n8qyxd.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"voz7s3nbr1"},{"Name":"integrity","Value":"sha256-b2jpCoYb9/E0\u002B9wS729QSeqXzrZetaEItxbHkEFa0ns="},{"Name":"label","Value":"_content/cafeservello-UI/cafeservello-UI.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1383"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022b2jpCoYb9/E0\u002B9wS729QSeqXzrZetaEItxbHkEFa0ns=\u0022"},{"Name":"Last-Modified","Value":"Thu, 09 Jul 2026 23:09:23 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"syk6n8qyxd"},{"Name":"integrity","Value":"sha256-XJmXM5aqBmGis5bvUYIs33qf95P2FklNs8CpcFNdpG0="},{"Name":"label","Value":"_content/cafeservello-UI/cafeservello-UI.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2392"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022XJmXM5aqBmGis5bvUYIs33qf95P2FklNs8CpcFNdpG0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 11 Jul 2026 18:25:18 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/cafeservello-UI/image/logo/logo-white.n0y02ac8v7.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\logo\logo-white.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n0y02ac8v7"},{"Name":"integrity","Value":"sha256-NxbwaXPrrkFrwmU/pizfcDidmyBujNBkpchES/JwBTw="},{"Name":"label","Value":"_content/cafeservello-UI/image/logo/logo-white.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"118430"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022NxbwaXPrrkFrwmU/pizfcDidmyBujNBkpchES/JwBTw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 08 Jul 2026 01:45:03 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"118430"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022NxbwaXPrrkFrwmU/pizfcDidmyBujNBkpchES/JwBTw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 09 Jul 2026 23:21:21 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/cafeservello-UI/image/logo/logo-white.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\logo\logo-white.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NxbwaXPrrkFrwmU/pizfcDidmyBujNBkpchES/JwBTw="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"118430"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022NxbwaXPrrkFrwmU/pizfcDidmyBujNBkpchES/JwBTw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 08 Jul 2026 01:45:03 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"118430"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022NxbwaXPrrkFrwmU/pizfcDidmyBujNBkpchES/JwBTw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 09 Jul 2026 23:21:21 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

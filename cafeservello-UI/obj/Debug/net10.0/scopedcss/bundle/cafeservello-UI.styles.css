@@ -32,15 +32,28 @@
     transition: opacity .3s ease, max-width .3s ease, margin .3s ease;
 }
 
-.main-column.sidebar-close .common-button[b-mk9imwedut] {
-    gap: 0;
-    padding-left: calc(50% - 12px);
+.main-column.sidebar-close .sidebar .common-button[b-mk9imwedut] {
+    gap: 0 !important;
+    padding-left: calc(50% - 12px) !important;
 }
 
-.main-column.sidebar-close .letter-medium[b-mk9imwedut] {
-    opacity: 0;
-    max-width: 0;
-    margin-left: -10px;
+.main-column.sidebar-close .sidebar .letter-medium[b-mk9imwedut] {
+    opacity: 0 !important;
+    max-width: 0 !important;
+    margin-left: -10px !important;
+} 
+/* _content/cafeservello-UI/Components/Common/Image/IconWhite.razor.rz.scp.css */
+.image[b-wvx1ok443n] {
+    align-items: center;
+    text-align: center;
+    display: flex;
+    width: 80px;
+    height: 80px;
+    transition: 0.3s all;
+}
+
+.image:hover[b-wvx1ok443n]{
+    transform: translateY(-1px)
 }
 /* _content/cafeservello-UI/Components/Common/Transition/Transition.razor.rz.scp.css */
 .page[b-23dza51jd7] {
@@ -57,4 +70,31 @@
         opacity: 1;
         transform: translateY(0);
     }
+}
+/* _content/cafeservello-UI/Components/Layout/Navbar/Navbar.razor.rz.scp.css */
+.navbar[b-evsv8c3r21] {
+    display: flex;
+    background: var(--bg);
+    border-radius: 10px;
+    padding: 0;
+    width: 100%;
+    transition: 0.3s all;
+}
+/* _content/cafeservello-UI/Components/Layout/Sidebar/Sidebar.razor.rz.scp.css */
+.sidebar[b-49clv2e75b] {
+    display: flex;
+    padding: 20px;
+    gap: 5px;
+    flex-direction: column;
+    background: var(--bg);
+    border-radius: 10px;
+    transition: 0.3s all;
+}
+
+.button-drawer[b-49clv2e75b]{
+    margin-left: auto;
+}
+
+.main-column.sidebar-close .button-drawer[b-49clv2e75b]{
+    transform: translateX(-15px)
 }

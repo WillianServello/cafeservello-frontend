@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jffRl+vdhM0=",
+  "dgSpecHash": "TyUj1+24Xio=",
   "success": true,
-  "projectFilePath": "C:\\Users\\WillianRafael\\source\\repos\\cafeservello-frontend\\cafeservello-UI\\cafeservello-UI.csproj",
+  "projectFilePath": "C:\\Users\\WillianRafael\\Desktop\\cafeservello-frontend\\cafeservello-UI\\cafeservello-UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\WillianRafael\\.nuget\\packages\\microsoft.aspnetcore.authorization\\10.0.9\\microsoft.aspnetcore.authorization.10.0.9.nupkg.sha512",
     "C:\\Users\\WillianRafael\\.nuget\\packages\\microsoft.aspnetcore.components\\10.0.9\\microsoft.aspnetcore.components.10.0.9.nupkg.sha512",

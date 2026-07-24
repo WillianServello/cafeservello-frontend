@@ -1,0 +1,17 @@
+.sidebar[b-49clv2e75b] {
+    display: flex;
+    padding: 20px;
+    gap: 5px;
+    flex-direction: column;
+    background: var(--bg);
+    border-radius: 10px;
+    transition: 0.3s all;
+}
+
+.button-drawer[b-49clv2e75b]{
+    margin-left: auto;
+}
+
+.main-column.sidebar-close .button-drawer[b-49clv2e75b]{
+    transform: translateX(-15px)
+}
